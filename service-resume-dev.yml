@@ -1,1 +1,4 @@
-
+fpy:
+  message: hello config
+mysql:
+  url: dev-test
